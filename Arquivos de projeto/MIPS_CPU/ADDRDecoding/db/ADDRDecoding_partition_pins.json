@@ -1,0 +1,29 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Saida",
+					"strict" : false
+				},
+				{
+					"name" : "Address[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Address[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Address[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Address[10]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
